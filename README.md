@@ -4,7 +4,7 @@ Hi 👋 My name is Elyam Cruz
 Student
 -------
 
-I am currently a college student studying Computer Science, with experience in Java, Python, and C++.
+I study Computer Science at Emory University, with experience in Java, Python, and C++.
 
 * 🌍  I'm based in Miami, Florida
 * ✉️  You can contact me at [elyamcruz0730@gmail.com](mailto:elyamcruz0730@gmail.com)
